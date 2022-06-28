@@ -14,7 +14,7 @@ Digitization of healthcare data along algorithmic breakthroughts in AI will have
 
 - Medical Data is often geographically dispersed distribtuted and privacy concerns can prevent us from building a central data-warehouse. Using Techniques like fedderated learning and differential privacy we can extract process models from distributed healthcare process logs. We explore the multi-party compute with the the framework of federated learning. see paper for more details. [[paper](https://github.com/asjad99/Distributed-Process-Mining/blob/main/Distributed_Process_Mining.pdf)]. 
 
-###### Process Analytics 
+###### Process Oriented Data Science  
 
 Take a look at the [Survey]() for a broad overview of AI's impact on supporting and improving business processes.
 
