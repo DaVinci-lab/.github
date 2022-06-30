@@ -1,6 +1,6 @@
 ####  Research Projects  🔭 :electron:	
 
-At Da Vinci Labs, we study and develop intelligent systems that support models targeted at thinking, perception and action. The projects are aimed at tackling hard problems related to healthcare,climate change, eduation, food security and so on. Inspired by the Open Source Software movements and research labs like DeepMind and OpenAI, we will share our projects publicaly.  
+At Da Vinci Labs, we study and develop intelligent systems that support models targeted at thinking, perception and action. The projects are aimed at tackling hard problems related to healthcare,climate change, eduation, food security and so on. Inspired by the Open Source Software movements and research labs like DeepMind and OpenAI, we will share our findings publicly.  
 
 
 ### Past Projects: 
