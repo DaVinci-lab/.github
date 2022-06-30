@@ -1,9 +1,9 @@
 ####  Research Projects  🔭 :electron:	
 
-At Da Vinci Labs, we study and develop intelligent algorithms enabled by constraints that support models targeted at thinking, perception and action.  Our recent focus has largely been on Applied Machine Learning, which is is full of [fascinating open problems](https://www.asjadk.io/real-world-rl/) like [Generalization](https://www.asjadk.io/generalization/), [intelligent exploration vs exploitation](https://www.asjadk.io/strategic-exploration-in-online-decision-making/), [counter-factual evaluation](https://www.asjadk.io/counterfactual-policy-evaluation/), Meta-Learning
- and Sample Efficient Learning. Progress in solving these problems, can have a major impact on domains like industrial automation, healthcare and Education. 
+At Da Vinci Labs, we study and develop intelligent algorithms enabled by constraints that support models targeted at thinking, perception and action. The projects are aimed at tackling hard problems related to healthcare,climate change, eduation, food security and so on. 
 
-Some threads of research: 
+
+### Past Projects: 
 
 ###### Healthcare 
 
@@ -22,6 +22,6 @@ AI plays a key role in operational and strategic Business decision making. I hav
  - At operational level AI can provide recommendations to support business process executions. Deep Learning Architectures LIKE LSTMs, MANNs and Transformers provides methods for modeling sequential data problems. In  [DeepProcess:](https://github.com/asjad99/DeepProcess) Project we use Memory Augmented Neural Networks  for Predictive Process Monitoring. see  [[Paper](https://arxiv.org/pdf/1802.00938.pdf)] [[Blog_post](www.asjadk.io/deepprocess/)]
 
 
-###### Behaviour Modeling 
+###### Behaviour Modeling of Organizations 
 
 AI is about decision-making under uncertainty. At Strategic level AI can help bussiness come up with robust plans. We explore this in the Alpha-GS project: [Alpha-GS](https://github.com/asjad99/rosetta_stone) - Decision making in adversarial settings using Game tree Search Combined With satisfiability(SAT) [[Blog Post](https://www.asjadk.io/strategic_resilience/)] 
