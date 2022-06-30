@@ -1,6 +1,6 @@
 ####  Research Projects  🔭 :electron:	
 
-At Da Vinci Labs, we study and develop intelligent algorithms enabled by constraints that support models targeted at thinking, perception and action. The projects are aimed at tackling hard problems related to healthcare,climate change, eduation, food security and so on. 
+At Da Vinci Labs, we study and develop intelligent systems that support models targeted at thinking, perception and action. The projects are aimed at tackling hard problems related to healthcare,climate change, eduation, food security and so on. 
 
 
 ### Past Projects: 
