@@ -1,10 +1,5 @@
 ####  Research Projects  🔭 :electron:	
 
-About: Any one who has been part of the academic model very well knows how broken the publication model is. In the software industry hackers(makers) have 
-adopted the open source and many of the alrge software companies are the biggest contributors. Similarly, OpenAI and DeepMInd have shown that it is possible to pursue moonshot idea and Research outside of academia in a sustainable manner. It is also clear from the no. of publications available on 
-ArXiv that authors don’t care about getting their ideas stolen. At DaVinci lab we believe Exchange of ideas always leads to a net positive and that institutional boundries are artificial. 
-
-
 
 ### Past Projects: 
 
