@@ -19,5 +19,8 @@ At Da Vinci Labs, we study and develop intelligent systems that support models t
 
 - DeepRL: 
 - [Yanga](https://github.com/asjad99/Yanga)  - An AutoML inspired framework for modeling sequential modeling problems using Deep Learning. See [Blog Post](https://www.asjadk.io/music/)]
+- Prescriptive Process Monitoring for Decision Support [Paper] 
+- Knowledge Graph - Knowledge Centric Process mining [Paper] 
+- Federated Learning: Distributed Pr [Paper] [Blog Post] 
+- [Alpha_Q](https://github.com/asjad99/rosetta_stone) A Framework for decision making in adversarial settings to acheive strategic resilience
 - [Mobility-intelligence](https://github.com/asjad99/mobility-intelligence) - Geospatial and Temporal Data Analysis for revealing Taxi Driver's Mobility intelligence [Blog Post](https://www.asjadk.io/revealing-taxi-drivers-mobility-intelligence-through-his-trace/)
-- [rosetta_stone](https://github.com/asjad99/rosetta_stone) A Framework for decision making in adversarial settings to acheive strategic resilience
