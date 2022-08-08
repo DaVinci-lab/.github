@@ -23,7 +23,8 @@ At Da Vinci Labs, we study and develop intelligent systems that support models t
 - [Alpha_Q](https://github.com/asjad99/rosetta_stone) - A Framework for decision making in adversarial settings to acheive strategic resilience
 - Patent Similirty - Bert Based Search 
 
-#### Work In Progress: 
+#### Work In Progress/Future: 
 
 - [Yanga](https://github.com/asjad99/Yanga)  - An AutoML inspired framework for modeling sequential modeling problems using Deep Learning. See [Blog Post](https://www.asjadk.io/music/)]
 - Knowledge Graph - Knowledge Centric Process mining [Paper] 
+- DL for Hyperspectural Imaging  
