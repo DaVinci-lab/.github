@@ -5,27 +5,22 @@ We provide consulting around development of intelligent systems that support mod
 
 #### Services 
 
-
-- Healthcare Applications
-- Process Oriented Data Science  
-- Emerging AI-enabled trends 
-- Behaviour Modeling
-- Sequential Decision Modeling 
-
-
-#### Case Studies 
-
- The projects are aimed at tackling hard problems related to fundamental research and application areas like healthcare, climate change, eduation, food security and so on. Inspired by the Open Source Software movements and research labs like DeepMind and OpenAI, we will share our findings publicly.  
-
-
-- MIMIC - DeepRL
-- Prescriptive Process Monitoring for Decision Support [Paper] 
-- Knowledge Centric Process Mining 
-- [Alpha_Q](https://github.com/asjad99/rosetta_stone) - A Framework for decision making in adversarial settings to acheive strategic resilience
-- Patent Similirty - Bert Based Search 
-
-#### Work In Progress/Future: 
-
-- [Yanga](https://github.com/asjad99/Yanga)  - An AutoML inspired framework for modeling sequential modeling problems using Deep Learning. See [Blog Post](https://www.asjadk.io/music/)]
-- Knowledge Graph - Knowledge Centric Process mining [Paper] 
-- DL for Hyperspectural Imaging  
+The Services are aimed at tackling hard problems related to fundamental research and application areas like healthcare, climate change, eduation, food security and so on. 
+ 
+- Supply Chain Analytics (forecasting and analytics)
+- Data Engineering
+- Process Optimization and Continuous Improvement
+- Automated Planning with Agents
+- Anomaly Detection
+- Semantic Search and Recommender Systems
+- Risk Modeling
+- Explainable Machine Learning
+- Data-Driven Process Optimization
+- Behavioral Modeling
+- Sequential Decision Modeling
+- Knowledge-Centric Process Mining
+- Prescriptive Process Monitoring for Decision Support
+- Decision-Making in Adversarial Settings to Achieve Strategic Resilience
+- Deep Learning for Hyperspectral Imaging
+- Knowledge-Centric Data Mining
+- Sequential Modeling Problems Using Deep Learning
