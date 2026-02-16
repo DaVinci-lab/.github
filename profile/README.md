@@ -1,9 +1,10 @@
 #### About
 
-At Da Vinci Labs, we study and develop intelligent systems that support models targeted at thinking, perception and action.
+We provide consulting around development of intelligent systems that support models targeted at thinking, perception and action.
 
 
-#### Research Focus and themes  🔭 :electron:	
+#### Services 
+
 
 - Healthcare Applications
 - Process Oriented Data Science  
@@ -12,7 +13,7 @@ At Da Vinci Labs, we study and develop intelligent systems that support models t
 - Sequential Decision Modeling 
 
 
-#### Projects List: 
+#### Case Studies 
 
  The projects are aimed at tackling hard problems related to fundamental research and application areas like healthcare, climate change, eduation, food security and so on. Inspired by the Open Source Software movements and research labs like DeepMind and OpenAI, we will share our findings publicly.  
 
